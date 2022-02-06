@@ -1,0 +1,374 @@
+@media only screen and (max-width: 1500px){
+
+}
+
+@media only screen and (max-width: 1400px){
+
+}
+
+@media only screen and (max-width: 1300px){
+}
+
+@media only screen and (max-width: 1200px) {
+
+
+}
+@media only screen and (max-width: 1150px){
+	
+
+}
+@media only screen and (max-width: 1100px){
+.banner-sec .oppnity-text {
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    padding: 0 15px;
+}
+.banner-sec .oppnity-text h1 {
+    font-size: 65px;
+    line-height: 70px;
+}
+.heading h2 {
+    font-size: 60px !important;
+    line-height: 65px !important;
+}
+.banner-sec {
+    height: auto;
+    position: relative;
+}
+.get-started-sec .form-field ul {
+    flex-wrap: wrap;
+}
+.get-started-sec .form-field li {
+    flex: 0 0 49%;
+    max-width: 49%;
+    position: relative;
+}
+.get-started-sec .form-field li.check {
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+}
+
+.get-started-sec .form-field input {
+    padding: 20px 7px;
+	    margin: 15px 0 0 0;
+   
+}
+.get-started-sec .col-12 {
+    padding: 0 0 0 0px;
+}
+.get-started-sec {
+    top: 0;
+    padding: 40px 15px;
+    margin-bottom: 40px;
+}
+
+}
+
+@media only screen and (max-width: 1024px){
+
+}
+
+
+@media only screen and (max-width: 992px){
+	.visible-xs {
+		position: relative;
+	}
+	.visible-xs:before {
+		position: absolute;
+        content: "\f0c9";
+		font-family: 'FontAwesome';
+		left: -40px;
+		right: 0px;
+		top: 0;
+		background: #000;
+		text-align: center;
+		border-radius: 5px;
+	}
+	#configure {
+		color: #fff;
+		font-size: 25px;
+		right: 20px;
+		cursor: pointer;
+		position: absolute;
+		top:25px;
+		z-index: 9;
+	}
+	#navbar-wrap {
+		background:#000;
+		padding: 0 0 0px 0;
+		position: absolute;
+		top:80px;
+		right: 0;
+		width: 100%;
+		z-index: 999;
+		display:none;
+	}
+
+.navmenu li {
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding: 10px 20px !important;
+    border-bottom: 1px solid #fff;
+}
+.navmenu li:nth-last-child(1){
+	border:0;
+}	
+.navmenu li a {
+    color: #fff !important;
+	display:block;
+}
+.header-sec .navmenu li a:after {
+	content:none;
+}
+}
+@media only screen and (max-width: 991px){
+
+}
+
+@media only screen and (max-width: 850px){
+	
+}
+
+@media only screen and (max-width: 768px){
+
+}
+@media only screen and (max-width: 767px){
+.heading h2 {
+    font-size: 45px !important;
+    line-height: 50px !important;
+   
+}
+.our-email-sec .heading h2 {
+    font-size: 45px;
+    color: #f4f4f4;
+    line-height: 50px;
+}
+.our-email-sec {
+    padding: 50px 0 50px 0;
+    
+}
+.our-email-sec .course {
+    margin-bottom: 20px;
+}
+.our-email-sec .heading {
+    padding-bottom: 46px;
+}
+.our-email-sec .course h6 {
+    font-size: 20px;
+    line-height: 26px;
+    padding: 10px 0px;
+	    bottom: 0;
+
+}
+.about-us-sec .heading h2 {
+    font-size: 45px;
+    padding-bottom: 30px;
+}
+.about-us-sec .img-about {
+    height: 500px;
+    margin-bottom: 15px;
+}
+.about-us-sec {
+    padding: 54px 0;
+}
+.vacation-sec .container-custom .feature {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.vacation-sec .container-custom .feature img {
+    height: auto;
+}
+.vacation-sec .container-custom .offering {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 40px 20px;
+    
+}
+.vacation-sec .container-custom .offering h2 {
+    font-size: 45px;
+    line-height: 50px;
+   
+}
+.hope-sec {
+    padding: 50px 0;
+}
+.hope-sec .hope-text h2 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.hope-sec .hope-text input[type=text] {
+    height: 60px;
+   
+}
+.hope-sec .hope-text input[type=submit] {
+    height: 60px;
+    line-height: 60px;
+    font-size: 18px;
+}
+.unique-sec .course img {
+
+    height: auto;
+}
+.contact-us-sec .heading h2 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.contact-us-sec {
+    padding: 50px 0 50px 0;
+    
+}
+.contact-us-sec .form-part form aside {
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+.contact-us-sec .heading {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.happening-sec .slider-image li {
+    flex: 0 0 100%;
+    max-width: 100%;
+   
+}
+.happening-sec {
+    padding: 50px 0 0px 0;
+}
+.quick-link {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.footer-sec .printing {
+    padding: 0 0 0 0px;
+    text-align: center;
+}
+.banner-sec {
+    height: auto;
+}
+.get-started-sec {
+    top: 0;
+  
+}
+.get-started-sec .form-field ul {
+    flex-wrap: wrap;
+}
+.get-started-sec .form-field li {
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+}
+.get-started-sec .col-12 {
+    padding: 0 0 0 0px;
+}
+.get-started-sec {
+    background: #eeeeee;
+    position: relative;
+    top: 0;
+    max-width: 1300px;
+    margin: 0 auto;
+    box-shadow: 0 0 0px 0px #ccc;
+    padding: 40px 15px;
+	margin-bottom:40px;
+}
+.get-started-sec .form-field li.check {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.get-started-sec .form-field input {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 15px 7px;
+}
+.banner-sec .oppnity-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.banner-sec .oppnity-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 0 15px;
+}
+.banner-sec .oppnity-text h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 52px;
+    text-transform: uppercase;
+}
+}
+@media only screen and (max-width: 700px){
+
+}
+
+
+@media only screen and (max-width: 620px) {
+
+	
+}
+
+@media only screen and (max-width: 580px){
+
+}
+
+@media only screen and (max-width: 550px){
+	
+}
+
+@media only screen and (max-width: 480px){	
+
+
+}
+
+@media only screen and (max-width: 414px){
+
+
+}
+
+@media only screen and (max-width: 411px){
+	
+}
+
+@media only screen and (max-width: 395px){
+	
+}
+
+@media only screen and (max-width: 375px){
+
+}
+
+@media only screen and (max-width: 360px){
+	
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+@media only screen and (min-width: 768px) and (max-width: 850px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

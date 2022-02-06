@@ -1,0 +1,1 @@
+$(document).ready(function(){	 $("#configure").click(function(e){     $("#navbar-wrap").slideToggle();	 e.preventDefault();	     });			 $("#contribute").click(function(e){     $("#footer-wrap").slideToggle();	 e.preventDefault();	     });	        });
